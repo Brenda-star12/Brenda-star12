@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Brenda-star12/Brenda-star12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Brenda-star12/Brenda-star12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Meu nome é Brenda, tenho 15 anos gosto de ler, escrever histórias e escutar músicas, prefiro ficar em casa, não gosto tanto da escola, nâo tenho tantos amigos e amo gatos.
 
 Here are some ideas to get you started:
 
